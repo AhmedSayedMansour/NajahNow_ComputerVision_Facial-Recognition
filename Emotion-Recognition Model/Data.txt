@@ -1,0 +1,5 @@
+FER-2013 images : 
+https://www.kaggle.com/msambare/fer2013
+
+FER-2013 1-D array : 
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data?select=example_submission.csv
