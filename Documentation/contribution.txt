@@ -1,0 +1,6 @@
+paper 12 :
+contribution:
+1 - add early stopping.
+2 - gray scaling.
+3 - improve the model(more deeper).
+3 - dataset combinations to improve the model(try to increase the number of labels).	
